@@ -134,8 +134,6 @@ function App() {
 
           {/* Main Interface */}
           <div className="relative">
-            <div className="absolute -inset-1 bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl blur opacity-20"></div>
-
             <div className="relative bg-[#0A0A0A] rounded-2xl border border-white/10 p-1 shadow-2xl">
               <div className="bg-[#0f0f0f] rounded-xl p-8 border border-white/5">
 
