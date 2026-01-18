@@ -1,5 +1,5 @@
 import React from 'react';
-import { Zap } from 'lucide-react';
+// import { Zap } from 'lucide-react';
 
 const Header: React.FC = () => {
     return (
@@ -7,7 +7,7 @@ const Header: React.FC = () => {
             <div className="container mx-auto px-6 h-16 flex items-center justify-between">
                 <div className="flex items-center gap-3">
                     <div className="w-8 h-8 rounded-full bg-gradient-to-tr from-blue-600 to-purple-600 flex items-center justify-center text-white shadow-lg shadow-blue-500/20">
-                        <Zap size={18} fill="currentColor" className="text-white" />
+                        {/* <Zap size={18} fill="currentColor" className="text-white" /> */}
                     </div>
                     <span className="font-bold text-lg tracking-tight text-white">
                         fconverter
